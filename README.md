@@ -1,2 +1,2 @@
 # 99TechCodeChallenge
-This is the repository for solutions to code challenges provided by 99Tech
+This is the repository for solutions to code challenges given by 99Tech
