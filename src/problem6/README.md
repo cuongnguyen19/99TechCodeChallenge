@@ -1,4 +1,5 @@
 README.md
+
 Scoreboard API Service
 This document outlines the specifications for the Scoreboard API Service, which supports a website displaying a live-updated scoreboard of the top 10 users' scores. Users can increase their scores by performing certain actions, and these updates will be reflected in real-time.
 Table of Contents
